@@ -1,4 +1,6 @@
 {
    "options": {},
-   "features": {}
+   "features": {
+      "XPasALibrary": true
+   }
 }
